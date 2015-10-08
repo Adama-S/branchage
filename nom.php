@@ -9,7 +9,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>
-        <h2> Sélection du nom</h2>
+        <h2> Sélection du nom (*)(*)</h2>
           
          <form name="selectNom" action="prenom.php" method="POST">
        nom*<input type="text" name="nom"></br>
